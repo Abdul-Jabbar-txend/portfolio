@@ -35,7 +35,7 @@ body {
 /* dark mood  */
 
 body.dark {
-  --body-color: #202425;
+  --body-color: #03242d;
   --box-color: #fff;
 
   --nav-color: #262425;
